@@ -2,10 +2,6 @@
 ::1	localhost
 ::1	ip6-localhost
 ::1	ip6-loopback
-
-162.212.41.11	www.shutterstock.com
-
-# Amazon AWS Start
 54.239.31.69	aws.amazon.com
 54.239.30.25	console.aws.amazon.com
 54.239.96.90	ap-northeast-1.console.aws.amazon.com
@@ -28,10 +24,8 @@
 54.231.168.160	s3-us-west-2.amazonaws.com
 52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.40.3	github-com.s3.amazonaws.com
-54.231.98.72	github-production-release-asset-2e65be.s3.amazonaws.com
-# Amazon AWS End
-
-# Android Start
+52.216.20.171	github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.228.168	github-production-user-asset-6210df.s3.amazonaws.com
 216.58.200.192	android.com
 216.58.200.192	www.android.com
 216.58.200.192	a.android.com
@@ -63,9 +57,6 @@
 64.233.188.121	tools.android.com
 64.233.191.121	jmoore-dot-android-experiments.appspot.com
 64.233.191.121	maven.google.com
-# Android End
-
-# Apkpure Start
 104.20.82.194	apkpure.com
 104.20.82.194	a.apkpure.com
 104.20.82.194	download.apkpure.com
@@ -73,9 +64,6 @@
 104.20.82.194	i.apkpure.com
 104.20.82.194	static.apkpure.com
 104.20.82.194	translate.apkpure.com
-# Apkpure End
-
-# Archive Start
 207.241.224.22	archive.org
 207.241.224.22	www.archive.org
 207.241.224.22	analytics.archive.org
@@ -83,25 +71,13 @@
 207.241.225.186	web-beta.archive.org
 207.241.225.186	wwwb-sentry.us.archive.org
 207.241.226.190	web.archive.org
-# Archive End
-
-# Armorgames Start
 93.184.220.39	agi.armorgames.com
 93.184.220.39	armatars.armorgames.com
 93.184.220.39	cache.armorgames.com
 93.184.220.39	gamemedia.armorgames.com
 93.184.220.39	quests.armorgames.com
-# Armorgames End
-
-# autodraw Start
 172.217.25.243	www.autodraw.com
-# autodraw End
-
-# bandwagonhost.com Start
 104.20.6.63	bandwagonhost.com
-# bandwagonhost.com End
-
-# Box.com Start
 107.152.25.197	app.box.com
 107.152.25.197	api.box.com
 107.152.25.197	account.box.com
@@ -112,23 +88,11 @@
 107.152.25.207	notes.services.box.com
 104.16.27.3	cdn01.boxcdn.net
 104.218.203.34	support.box.com
-# Box.com End
-
-# BundleStars Start
 23.253.146.21	bundlestars.com
 54.192.232.60	cdn-images.bundlestars.com
 185.12.83.2	support.bundlestars.com
-# BundleStars End
-
-# Cloudfront.net Start
 52.84.246.72	d3c33hcgiwev3.cloudfront.net
-# Cloudfront.net End
-
-# culturalspot Start
 216.58.200.192	embed.culturalspot.org
-# culturalspot End
-
-# Disqus Start
 151.101.100.134	disqus.com
 151.101.100.134	www.disqus.com
 151.101.100.134	apkpure.disqus.com
@@ -146,9 +110,6 @@
 104.16.80.166	c.disquscdn.com
 151.101.24.249	a.disquscdn.com
 151.101.24.134	nytchinese.disqus.com
-# Disqus End
-
-# Dropbox Start
 162.125.248.1	dropbox.com
 162.125.248.1	www.dropbox.com
 162.125.32.9	db.tt
@@ -159,6 +120,7 @@
 162.125.32.5	api-d.dropbox.com
 162.125.32.13	api.v.dropbox.com
 162.125.32.13	api-notify.dropbox.com
+52.84.243.64	aem.dropbox.com
 162.125.1.8	api-content.dropbox.com
 162.125.2.5	api-content-photos.dropbox.com
 52.85.12.34	blogs.dropbox.com
@@ -190,6 +152,7 @@
 162.125.80.5	photos-6.dropbox.com
 162.125.80.5	photos-thumb.dropbox.com
 162.125.18.129	photos-thumb.x.dropbox.com
+162.125.2.3	paper.dropbox.com
 52.85.12.41	status.dropbox.com
 52.85.12.72	snapengage.dropbox.com
 162.125.2.6	dl.dropboxusercontent.com
@@ -198,18 +161,12 @@
 54.230.125.126	cf.dropboxstatic.com
 162.125.32.10	dbxlocal.dropboxstatic.com
 162.125.32.6	log.getdropbox.com
-# Dropbox End
-
-# DuckDuckGo Start
 50.18.192.250	duckduckgo.com
 50.18.192.250	www.duckduckgo.com
 50.18.192.250	ac.duckduckgo.com
 54.229.110.205	icons.duckduckgo.com
 54.229.110.205	images.duckduckgo.com
 96.45.83.209	help.duckduckgo.com
-# DuckDuckGo End
-
-# Facebook Start
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
 157.240.7.35	www.facebook.com
@@ -378,9 +335,6 @@
 184.28.188.10	fb-s-b-a.akamaihd.net
 184.28.188.10	fb-s-c-a.akamaihd.net
 184.28.188.10	fb-s-d-a.akamaihd.net
-# Facebook End
-
-# FlipBoard Start
 52.85.105.246	s.flipboard.com
 54.230.37.226	cdn.flipboard.com
 52.71.242.81	ue.flipboard.com
@@ -388,14 +342,8 @@
 52.204.29.124	flipboard.com
 52.204.24.196	fbprod.flipboard.com
 184.169.141.161	flipboard.helpshift.com
-# FlipBoard End
-
-# Github Start
 192.30.253.118	gist.github.com
 151.101.72.249	global-ssl.fastly.net
-# Github End
-
-# Gmail web Start
 216.58.200.192	gmail.com
 216.58.200.192	www.gmail.com
 216.58.200.192	m.gmail.com
@@ -413,9 +361,6 @@
 216.58.200.192	alt2.gmail-smtp-in.l.google.com
 216.58.200.192	alt3.gmail-smtp-in.l.google.com
 216.58.200.192	alt4.gmail-smtp-in.l.google.com
-# Gmail web End
-
-# Google Start
 216.58.200.192	com.google
 216.58.200.192	domains.google
 216.58.200.192	environment.google
@@ -1220,9 +1165,6 @@
 216.58.196.236	proxy-dev.googlezip.net
 216.239.34.21	polymer-project.org
 216.58.199.243	www.polymer-project.org
-# Google End
-
-# gstatic Start
 216.58.200.192	geo0.ggpht.com
 216.58.200.192	geo1.ggpht.com
 216.58.200.192	geo2.ggpht.com
@@ -1243,8 +1185,6 @@
 216.58.200.192	yt4.ggpht.com
 216.58.200.192	accounts.gstatic.com
 216.58.200.192	maps.gstatic.com
-216.58.200.192	ssl.gstatic.com
-216.58.200.192	www.gstatic.com
 216.58.200.192	connectivitycheck.gstatic.com
 216.58.200.192	encrypted-tbn0.gstatic.com
 216.58.200.192	encrypted-tbn1.gstatic.com
@@ -1268,9 +1208,6 @@
 216.58.200.192	t2.gstatic.com
 216.58.200.192	t3.gstatic.com
 203.208.51.55	fonts.gstatic.com
-# gstatic End
-
-# Googleapis Start
 216.58.200.192	chart.apis.google.com
 216.58.200.192	explorer.apis.google.com
 216.58.200.192	googleapis.com
@@ -1313,9 +1250,6 @@
 64.233.188.121	code.getmdl.io
 64.233.189.128	storage.googleapis.com
 64.233.189.128	chromedriver.storage.googleapis.com
-# Googleapis End
-
-# Googleusercontent Start
 216.58.200.192	www.googleusercontent.com
 216.58.200.192	apidata.googleusercontent.com
 216.58.200.192	blogger.googleusercontent.com
@@ -2556,9 +2490,6 @@
 216.58.200.192	38-wave-opensocial.googleusercontent.com
 216.58.200.192	39-wave-opensocial.googleusercontent.com
 216.58.200.192	40-wave-opensocial.googleusercontent.com
-# Googleusercontent End
-
-# Google:others Start
 216.58.200.192	google.ad
 216.58.200.192	google.ae
 216.58.200.192	google.al
@@ -2899,9 +2830,6 @@
 216.58.200.192	www.certificate-transparency.org
 216.58.200.192	abc.xyz
 216.58.200.192	www.tensorflow.org
-# Google:others End
-
-# Gmail SMTP/POP/IMAP Start
 64.233.188.14	gmr-smtp-in.l.google.com
 64.233.188.16	googlemail-imap.l.google.com
 64.233.188.16	googlemail-smtp.l.google.com
@@ -2916,25 +2844,16 @@
 64.233.189.108	smtp.gmail.com
 64.233.189.108	pop.gmail.com
 64.233.189.108	gmail-smtp-msa.l.google.com
-# Gmail SMTP/POP/IMAP End
-
-# Google:stun Server Start
 64.233.177.127	stun.l.google.com
 64.233.177.127	alt1.stun.l.google.com
 64.233.177.127	alt2.stun.l.google.com
 64.233.177.127	alt3.stun.l.google.com
 64.233.177.127	alt4.stun.l.google.com
 64.233.177.127	alt5.stun.l.google.com
-# Google:stun Server End
-
-# Google:Gtalk Start
 64.233.188.125	talk.google.com
 64.233.188.125	talk.l.google.com
 64.233.188.125	talkx.l.google.com
 64.233.188.125	alt1.talk.l.google.com
-# Google:Gtalk End
-
-# Google:ghs Start
 64.233.188.121	ghs.google.com
 64.233.188.121	ghs46.google.com
 64.233.188.121	ghs.l.google.com
@@ -2967,9 +2886,6 @@
 64.233.188.121	www.googlezeitgeist.com
 64.233.188.121	news.dartlang.org
 64.233.188.121	dartpad.dartlang.org
-# Google:ghs End
-
-# Google:gcm Start
 64.233.188.188	mobile-gtalk.l.google.com
 64.233.188.188	mtalk.google.com
 64.233.188.188	gcm.googleapis.com
@@ -2978,22 +2894,10 @@
 64.233.188.188	gcm-preprod.l.google.com
 64.233.188.188	gcm-preprod.googleapis.com
 216.58.200.192	gcm-http.googleapis.com
-# Google:gcm End
-
-# Goole:duo Start
 216.58.200.192	instantmessaging-pa.googleapis.com
-# Goole:duo End
-
-# Google:A-GPS Start
 64.233.171.192	supl.google.com
-# Google:A-GPS End
-
-# Google:Made the code for girls Start Start
 216.239.38.21	madewithcode.com
 216.239.38.21	www.madewithcode.com
-# Google:Made the code for girls Start End
-
-# Google:Fit Start
 216.58.200.192	lax17s02-in-f10.1e100.net
 216.58.200.192	lax17s03-in-f10.1e100.net
 216.58.200.192	lax17s04-in-f10.1e100.net
@@ -3004,17 +2908,529 @@
 216.58.200.192	lax28s01-in-f10.1e100.net
 216.58.200.192	tsa01s07-in-f10.1e100.net
 216.58.200.192	tsa01s08-in-f10.1e100.net
-# Google:Fit End
-
-# HumbleBundle Start
+216.58.200.192	redirector.gvt1.com
+194.9.24.76	r1---sn-5uh5o-f5f6.gvt1.com
+194.9.24.77	r2---sn-5uh5o-f5f6.gvt1.com
+194.9.24.78	r3---sn-5uh5o-f5f6.gvt1.com
+194.9.24.79	r4---sn-5uh5o-f5f6.gvt1.com
+194.9.24.80	r5---sn-5uh5o-f5f6.gvt1.com
+194.9.24.81	r6---sn-5uh5o-f5f6.gvt1.com
+194.9.24.82	r7---sn-5uh5o-f5f6.gvt1.com
+194.9.24.83	r8---sn-5uh5o-f5f6.gvt1.com
+74.125.164.134	r1---sn-i3b7knez.gvt1.com
+74.125.164.135	r2---sn-i3b7knez.gvt1.com
+74.125.164.136	r3---sn-i3b7knez.gvt1.com
+74.125.164.137	r4---sn-i3b7knez.gvt1.com
+74.125.164.138	r5---sn-i3b7knez.gvt1.com
+74.125.164.139	r6---sn-i3b7knez.gvt1.com
+74.125.164.140	r7---sn-i3b7knez.gvt1.com
+74.125.164.141	r8---sn-i3b7knez.gvt1.com
+74.125.164.142	r9---sn-i3b7knez.gvt1.com
+74.125.164.143	r10---sn-i3b7knez.gvt1.com
+74.125.164.144	r11---sn-i3b7knez.gvt1.com
+74.125.164.145	r12---sn-i3b7knez.gvt1.com
+74.125.164.146	r13---sn-i3b7knez.gvt1.com
+74.125.164.147	r14---sn-i3b7knez.gvt1.com
+74.125.164.148	r15---sn-i3b7knez.gvt1.com
+74.125.164.149	r16---sn-i3b7knez.gvt1.com
+74.125.164.150	r17---sn-i3b7knez.gvt1.com
+74.125.164.151	r18---sn-i3b7knez.gvt1.com
+74.125.164.152	r19---sn-i3b7knez.gvt1.com
+74.125.164.153	r20---sn-i3b7knez.gvt1.com
+74.125.164.70	r1---sn-i3b7knel.gvt1.com
+74.125.164.71	r2---sn-i3b7knel.gvt1.com
+74.125.164.72	r3---sn-i3b7knel.gvt1.com
+74.125.164.73	r4---sn-i3b7knel.gvt1.com
+74.125.164.74	r5---sn-i3b7knel.gvt1.com
+74.125.164.75	r6---sn-i3b7knel.gvt1.com
+74.125.164.76	r7---sn-i3b7knel.gvt1.com
+74.125.164.77	r8---sn-i3b7knel.gvt1.com
+74.125.164.78	r9---sn-i3b7knel.gvt1.com
+74.125.164.79	r10---sn-i3b7knel.gvt1.com
+74.125.164.80	r11---sn-i3b7knel.gvt1.com
+74.125.164.81	r12---sn-i3b7knel.gvt1.com
+74.125.164.82	r13---sn-i3b7knel.gvt1.com
+74.125.164.83	r14---sn-i3b7knel.gvt1.com
+74.125.164.84	r15---sn-i3b7knel.gvt1.com
+74.125.164.85	r16---sn-i3b7knel.gvt1.com
+74.125.164.86	r17---sn-i3b7knel.gvt1.com
+74.125.164.87	r18---sn-i3b7knel.gvt1.com
+74.125.164.88	r19---sn-i3b7knel.gvt1.com
+74.125.164.89	r20---sn-i3b7knel.gvt1.com
+74.125.171.6	r1---sn-i3b7kner.gvt1.com
+74.125.171.7	r2---sn-i3b7kner.gvt1.com
+74.125.171.8	r3---sn-i3b7kner.gvt1.com
+74.125.171.9	r4---sn-i3b7kner.gvt1.com
+74.125.171.10	r5---sn-i3b7kner.gvt1.com
+74.125.171.11	r6---sn-i3b7kner.gvt1.com
+74.125.171.12	r7---sn-i3b7kner.gvt1.com
+74.125.171.13	r8---sn-i3b7kner.gvt1.com
+74.125.171.14	r9---sn-i3b7kner.gvt1.com
+74.125.171.15	r10---sn-i3b7kner.gvt1.com
+74.125.171.16	r11---sn-i3b7kner.gvt1.com
+74.125.171.17	r12---sn-i3b7kner.gvt1.com
+74.125.171.18	r13---sn-i3b7kner.gvt1.com
+74.125.171.19	r14---sn-i3b7kner.gvt1.com
+74.125.171.20	r14---sn-i3b7kner.gvt1.com
+74.125.171.21	r15---sn-i3b7kner.gvt1.com
+74.125.171.22	r16---sn-i3b7kner.gvt1.com
+74.125.171.23	r17---sn-i3b7kner.gvt1.com
+74.125.171.24	r18---sn-i3b7kner.gvt1.com
+74.125.171.25	r19---sn-i3b7kner.gvt1.com
+74.125.171.26	r20---sn-i3b7kner.gvt1.com
+74.125.164.102	r1---sn-i3b7knes.gvt1.com
+74.125.164.103	r2---sn-i3b7knes.gvt1.com
+74.125.164.104	r3---sn-i3b7knes.gvt1.com
+74.125.164.105	r4---sn-i3b7knes.gvt1.com
+74.125.164.106	r5---sn-i3b7knes.gvt1.com
+74.125.164.107	r6---sn-i3b7knes.gvt1.com
+74.125.164.108	r7---sn-i3b7knes.gvt1.com
+74.125.164.109	r8---sn-i3b7knes.gvt1.com
+74.125.164.110	r9---sn-i3b7knes.gvt1.com
+74.125.164.111	r10---sn-i3b7knes.gvt1.com
+74.125.164.112	r11---sn-i3b7knes.gvt1.com
+74.125.164.113	r12---sn-i3b7knes.gvt1.com
+74.125.164.114	r13---sn-i3b7knes.gvt1.com
+74.125.164.115	r14---sn-i3b7knes.gvt1.com
+74.125.164.116	r15---sn-i3b7knes.gvt1.com
+74.125.164.117	r16---sn-i3b7knes.gvt1.com
+74.125.164.118	r17---sn-i3b7knes.gvt1.com
+74.125.164.119	r18---sn-i3b7knes.gvt1.com
+74.125.164.120	r19---sn-i3b7knes.gvt1.com
+74.125.164.121	r20---sn-i3b7knes.gvt1.com
+74.125.164.38	r1---sn-i3b7knee.gvt1.com
+74.125.164.39	r2---sn-i3b7knee.gvt1.com
+74.125.164.40	r3---sn-i3b7knee.gvt1.com
+74.125.164.41	r4---sn-i3b7knee.gvt1.com
+74.125.164.42	r5---sn-i3b7knee.gvt1.com
+74.125.164.43	r6---sn-i3b7knee.gvt1.com
+74.125.164.44	r7---sn-i3b7knee.gvt1.com
+74.125.164.45	r8---sn-i3b7knee.gvt1.com
+74.125.164.46	r9---sn-i3b7knee.gvt1.com
+74.125.164.47	r10---sn-i3b7knee.gvt1.com
+74.125.164.48	r11---sn-i3b7knee.gvt1.com
+74.125.164.49	r12---sn-i3b7knee.gvt1.com
+74.125.164.50	r13---sn-i3b7knee.gvt1.com
+74.125.164.51	r14---sn-i3b7knee.gvt1.com
+74.125.164.52	r15---sn-i3b7knee.gvt1.com
+74.125.164.53	r16---sn-i3b7knee.gvt1.com
+74.125.164.54	r17---sn-i3b7knee.gvt1.com
+74.125.164.55	r18---sn-i3b7knee.gvt1.com
+74.125.164.56	r19---sn-i3b7knee.gvt1.com
+74.125.164.57	r20---sn-i3b7knee.gvt1.com
+74.125.171.38	r1---sn-i3b7kney.gvt1.com
+74.125.171.39	r2---sn-i3b7kney.gvt1.com
+74.125.171.40	r3---sn-i3b7kney.gvt1.com
+74.125.171.41	r4---sn-i3b7kney.gvt1.com
+74.125.171.42	r5---sn-i3b7kney.gvt1.com
+74.125.171.43	r6---sn-i3b7kney.gvt1.com
+74.125.171.44	r7---sn-i3b7kney.gvt1.com
+74.125.171.45	r8---sn-i3b7kney.gvt1.com
+74.125.171.46	r9---sn-i3b7kney.gvt1.com
+74.125.171.47	r10---sn-i3b7kney.gvt1.com
+74.125.171.48	r11---sn-i3b7kney.gvt1.com
+74.125.171.49	r12---sn-i3b7kney.gvt1.com
+74.125.171.50	r13---sn-i3b7kney.gvt1.com
+74.125.171.51	r14---sn-i3b7kney.gvt1.com
+74.125.171.52	r15---sn-i3b7kney.gvt1.com
+74.125.171.53	r16---sn-i3b7kney.gvt1.com
+74.125.171.54	r17---sn-i3b7kney.gvt1.com
+74.125.171.55	r18---sn-i3b7kney.gvt1.com
+74.125.171.56	r19---sn-i3b7kney.gvt1.com
+74.125.171.57	r20---sn-i3b7kney.gvt1.com
+74.125.164.230	r1---sn-i3b7knek.gvt1.com
+74.125.164.231	r2---sn-i3b7knek.gvt1.com
+74.125.164.232	r3---sn-i3b7knek.gvt1.com
+74.125.164.233	r4---sn-i3b7knek.gvt1.com
+74.125.164.234	r5---sn-i3b7knek.gvt1.com
+74.125.164.235	r6---sn-i3b7knek.gvt1.com
+74.125.164.236	r7---sn-i3b7knek.gvt1.com
+74.125.164.237	r8---sn-i3b7knek.gvt1.com
+74.125.164.238	r9---sn-i3b7knek.gvt1.com
+74.125.164.239	r10---sn-i3b7knek.gvt1.com
+74.125.164.240	r11---sn-i3b7knek.gvt1.com
+74.125.164.241	r12---sn-i3b7knek.gvt1.com
+74.125.164.242	r13---sn-i3b7knek.gvt1.com
+74.125.164.243	r14---sn-i3b7knek.gvt1.com
+74.125.164.244	r15---sn-i3b7knek.gvt1.com
+74.125.164.245	r16---sn-i3b7knek.gvt1.com
+74.125.164.246	r17---sn-i3b7knek.gvt1.com
+74.125.164.247	r18---sn-i3b7knek.gvt1.com
+74.125.164.248	r19---sn-i3b7knek.gvt1.com
+74.125.164.249	r20---sn-i3b7knek.gvt1.com
+74.125.164.198	r1---sn-i3b7kned.gvt1.com
+74.125.164.199	r2---sn-i3b7kned.gvt1.com
+74.125.164.200	r3---sn-i3b7kned.gvt1.com
+74.125.164.201	r4---sn-i3b7kned.gvt1.com
+74.125.164.202	r5---sn-i3b7kned.gvt1.com
+74.125.164.203	r6---sn-i3b7kned.gvt1.com
+74.125.164.204	r7---sn-i3b7kned.gvt1.com
+74.125.164.205	r8---sn-i3b7kned.gvt1.com
+74.125.164.206	r9---sn-i3b7kned.gvt1.com
+74.125.164.207	r10---sn-i3b7kned.gvt1.com
+74.125.164.208	r11---sn-i3b7kned.gvt1.com
+74.125.164.209	r12---sn-i3b7kned.gvt1.com
+74.125.164.210	r13---sn-i3b7kned.gvt1.com
+74.125.164.211	r14---sn-i3b7kned.gvt1.com
+74.125.164.212	r15---sn-i3b7kned.gvt1.com
+74.125.164.213	r16---sn-i3b7kned.gvt1.com
+74.125.164.214	r17---sn-i3b7kned.gvt1.com
+74.125.164.215	r18---sn-i3b7kned.gvt1.com
+74.125.164.216	r19---sn-i3b7kned.gvt1.com
+74.125.164.217	r20---sn-i3b7kned.gvt1.com
+74.125.164.166	r1---sn-i3b7kne6.gvt1.com
+74.125.164.167	r2---sn-i3b7kne6.gvt1.com
+74.125.164.168	r3---sn-i3b7kne6.gvt1.com
+74.125.164.169	r4---sn-i3b7kne6.gvt1.com
+74.125.164.170	r5---sn-i3b7kne6.gvt1.com
+74.125.164.171	r6---sn-i3b7kne6.gvt1.com
+74.125.164.172	r7---sn-i3b7kne6.gvt1.com
+74.125.164.173	r8---sn-i3b7kne6.gvt1.com
+74.125.164.174	r9---sn-i3b7kne6.gvt1.com
+74.125.164.175	r10---sn-i3b7kne6.gvt1.com
+74.125.164.176	r11---sn-i3b7kne6.gvt1.com
+74.125.164.177	r12---sn-i3b7kne6.gvt1.com
+74.125.164.178	r13---sn-i3b7kne6.gvt1.com
+74.125.164.179	r14---sn-i3b7kne6.gvt1.com
+74.125.164.180	r15---sn-i3b7kne6.gvt1.com
+74.125.164.181	r16---sn-i3b7kne6.gvt1.com
+74.125.164.182	r17---sn-i3b7kne6.gvt1.com
+74.125.164.183	r18---sn-i3b7kne6.gvt1.com
+74.125.164.184	r19---sn-i3b7kne6.gvt1.com
+74.125.164.185	r20---sn-i3b7kne6.gvt1.com
+74.125.164.6	r1---sn-i3b7kne7.gvt1.com
+74.125.164.7	r2---sn-i3b7kne7.gvt1.com
+74.125.164.8	r3---sn-i3b7kne7.gvt1.com
+74.125.164.9	r4---sn-i3b7kne7.gvt1.com
+74.125.164.10	r5---sn-i3b7kne7.gvt1.com
+74.125.164.11	r6---sn-i3b7kne7.gvt1.com
+74.125.164.12	r7---sn-i3b7kne7.gvt1.com
+74.125.164.13	r8---sn-i3b7kne7.gvt1.com
+74.125.164.14	r9---sn-i3b7kne7.gvt1.com
+74.125.164.15	r10---sn-i3b7kne7.gvt1.com
+74.125.164.16	r11---sn-i3b7kne7.gvt1.com
+74.125.164.17	r12---sn-i3b7kne7.gvt1.com
+74.125.164.18	r13---sn-i3b7kne7.gvt1.com
+74.125.164.19	r14---sn-i3b7kne7.gvt1.com
+74.125.164.20	r15---sn-i3b7kne7.gvt1.com
+74.125.164.21	r16---sn-i3b7kne7.gvt1.com
+74.125.164.22	r17---sn-i3b7kne7.gvt1.com
+74.125.164.23	r18---sn-i3b7kne7.gvt1.com
+74.125.164.24	r19---sn-i3b7kne7.gvt1.com
+74.125.164.25	r20---sn-i3b7kne7.gvt1.com
+74.125.10.103	r1---sn-i3b7knl6.gvt1.com
+74.125.10.104	r2---sn-i3b7knl6.gvt1.com
+74.125.10.105	r3---sn-i3b7knl6.gvt1.com
+74.125.10.106	r4---sn-i3b7knl6.gvt1.com
+74.125.10.107	r5---sn-i3b7knl6.gvt1.com
+74.125.10.108	r6---sn-i3b7knl6.gvt1.com
+74.125.171.70	r1---sn-i3b7knl7.gvt1.com
+74.125.171.71	r2---sn-i3b7knl7.gvt1.com
+74.125.171.72	r3---sn-i3b7knl7.gvt1.com
+74.125.171.73	r4---sn-i3b7knl7.gvt1.com
+74.125.171.74	r5---sn-i3b7knl7.gvt1.com
+74.125.171.75	r6---sn-i3b7knl7.gvt1.com
+74.125.171.76	r7---sn-i3b7knl7.gvt1.com
+74.125.171.77	r8---sn-i3b7knl7.gvt1.com
+74.125.171.78	r9---sn-i3b7knl7.gvt1.com
+74.125.171.79	r10---sn-i3b7knl7.gvt1.com
+74.125.171.80	r11---sn-i3b7knl7.gvt1.com
+74.125.171.81	r12---sn-i3b7knl7.gvt1.com
+74.125.171.82	r13---sn-i3b7knl7.gvt1.com
+74.125.171.83	r14---sn-i3b7knl7.gvt1.com
+74.125.171.84	r15---sn-i3b7knl7.gvt1.com
+74.125.171.85	r16---sn-i3b7knl7.gvt1.com
+74.125.171.86	r17---sn-i3b7knl7.gvt1.com
+74.125.171.87	r18---sn-i3b7knl7.gvt1.com
+74.125.171.88	r19---sn-i3b7knl7.gvt1.com
+74.125.171.89	r20---sn-i3b7knl7.gvt1.com
+74.125.102.103	r1---sn-i3b7kn76.gvt1.com
+74.125.102.104	r2---sn-i3b7kn76.gvt1.com
+74.125.102.105	r3---sn-i3b7kn76.gvt1.com
+74.125.102.106	r4---sn-i3b7kn76.gvt1.com
+74.125.102.107	r5---sn-i3b7kn76.gvt1.com
+74.125.102.108	r6---sn-i3b7kn76.gvt1.com
+74.125.102.103	r1---sn-i3b7kn76.gvt1.com
+74.125.102.104	r2---sn-i3b7kn76.gvt1.com
+74.125.102.105	r3---sn-i3b7kn76.gvt1.com
+74.125.102.106	r4---sn-i3b7kn76.gvt1.com
+74.125.102.107	r5---sn-i3b7kn76.gvt1.com
+74.125.102.108	r6---sn-i3b7kn76.gvt1.com
+74.125.106.23	r1---sn-i3b7kn7r.gvt1.com
+74.125.106.24	r2---sn-i3b7kn7r.gvt1.com
+74.125.106.25	r3---sn-i3b7kn7r.gvt1.com
+74.125.106.26	r4---sn-i3b7kn7r.gvt1.com
+74.125.106.27	r5---sn-i3b7kn7r.gvt1.com
+74.125.106.28	r6---sn-i3b7kn7r.gvt1.com
+74.125.102.119	r1---sn-i3b7kn7d.gvt1.com
+74.125.102.120	r2---sn-i3b7kn7d.gvt1.com
+74.125.102.121	r3---sn-i3b7kn7d.gvt1.com
+74.125.102.122	r4---sn-i3b7kn7d.gvt1.com
+74.125.102.123	r5---sn-i3b7kn7d.gvt1.com
+74.125.102.124	r6---sn-i3b7kn7d.gvt1.com
+74.125.106.230	r1---sn-i3b7kn7y.gvt1.com
+74.125.106.231	r2---sn-i3b7kn7y.gvt1.com
+74.125.106.232	r3---sn-i3b7kn7y.gvt1.com
+74.125.106.233	r4---sn-i3b7kn7y.gvt1.com
+74.125.106.234	r5---sn-i3b7kn7y.gvt1.com
+74.125.106.235	r6---sn-i3b7kn7y.gvt1.com
+74.125.106.236	r7---sn-i3b7kn7y.gvt1.com
+74.125.106.237	r8---sn-i3b7kn7y.gvt1.com
+74.125.106.238	r9---sn-i3b7kn7y.gvt1.com
+74.125.106.239	r10---sn-i3b7kn7y.gvt1.com
+74.125.106.240	r11---sn-i3b7kn7y.gvt1.com
+74.125.106.241	r12---sn-i3b7kn7y.gvt1.com
+74.125.106.242	r13---sn-i3b7kn7y.gvt1.com
+74.125.106.243	r14---sn-i3b7kn7y.gvt1.com
+74.125.106.244	r15---sn-i3b7kn7y.gvt1.com
+74.125.106.245	r16---sn-i3b7kn7y.gvt1.com
+74.125.106.246	r17---sn-i3b7kn7y.gvt1.com
+74.125.106.247	r18---sn-i3b7kn7y.gvt1.com
+74.125.106.248	r19---sn-i3b7kn7y.gvt1.com
+74.125.106.249	r20---sn-i3b7kn7y.gvt1.com
+74.125.102.71	r1---sn-i3b7kn7s.gvt1.com
+74.125.102.72	r2---sn-i3b7kn7s.gvt1.com
+74.125.102.73	r3---sn-i3b7kn7s.gvt1.com
+74.125.102.74	r4---sn-i3b7kn7s.gvt1.com
+74.125.102.75	r5---sn-i3b7kn7s.gvt1.com
+74.125.102.76	r6---sn-i3b7kn7s.gvt1.com
+74.125.102.87	r1---sn-i3b7kn7z.gvt1.com
+74.125.102.88	r2---sn-i3b7kn7z.gvt1.com
+74.125.102.89	r3---sn-i3b7kn7z.gvt1.com
+74.125.102.90	r4---sn-i3b7kn7z.gvt1.com
+74.125.102.91	r5---sn-i3b7kn7z.gvt1.com
+74.125.102.92	r6---sn-i3b7kn7z.gvt1.com
+74.125.106.7	r1---sn-i3b7kn7k.gvt1.com
+74.125.106.8	r2---sn-i3b7kn7k.gvt1.com
+74.125.106.9	r3---sn-i3b7kn7k.gvt1.com
+74.125.106.10	r4---sn-i3b7kn7k.gvt1.com
+74.125.106.11	r5---sn-i3b7kn7k.gvt1.com
+74.125.106.12	r6---sn-i3b7kn7k.gvt1.com
+173.194.59.119	r1---sn-i3beln7r.gvt1.com
+173.194.59.120	r2---sn-i3beln7r.gvt1.com
+173.194.59.121	r3---sn-i3beln7r.gvt1.com
+173.194.59.122	r4---sn-i3beln7r.gvt1.com
+173.194.59.123	r5---sn-i3beln7r.gvt1.com
+173.194.59.124	r6---sn-i3beln7r.gvt1.com
+173.194.59.87	r1---sn-i3beln7d.gvt1.com
+173.194.59.88	r2---sn-i3beln7d.gvt1.com
+173.194.59.89	r3---sn-i3beln7d.gvt1.com
+173.194.59.90	r4---sn-i3beln7d.gvt1.com
+173.194.59.91	r5---sn-i3beln7d.gvt1.com
+173.194.59.92	r6---sn-i3beln7d.gvt1.com
+173.194.49.183	r1---sn-i3beln7s.gvt1.com
+173.194.49.184	r2---sn-i3beln7s.gvt1.com
+173.194.49.185	r3---sn-i3beln7s.gvt1.com
+173.194.49.186	r4---sn-i3beln7s.gvt1.com
+173.194.49.187	r5---sn-i3beln7s.gvt1.com
+173.194.49.188	r6---sn-i3beln7s.gvt1.com
+173.194.59.71	r1---sn-i3beln76.gvt1.com
+173.194.59.72	r2---sn-i3beln76.gvt1.com
+173.194.59.73	r3---sn-i3beln76.gvt1.com
+173.194.59.74	r4---sn-i3beln76.gvt1.com
+173.194.59.75	r5---sn-i3beln76.gvt1.com
+173.194.59.76	r6---sn-i3beln76.gvt1.com
+173.194.59.103	r1---sn-i3beln7k.gvt1.com
+173.194.59.104	r2---sn-i3beln7k.gvt1.com
+173.194.59.105	r3---sn-i3beln7k.gvt1.com
+173.194.59.106	r4---sn-i3beln7k.gvt1.com
+173.194.59.107	r5---sn-i3beln7k.gvt1.com
+173.194.59.108	r6---sn-i3beln7k.gvt1.com
+173.194.59.55	r1---sn-i3beln7z.gvt1.com
+173.194.59.56	r2---sn-i3beln7z.gvt1.com
+173.194.59.57	r3---sn-i3beln7z.gvt1.com
+173.194.59.58	r4---sn-i3beln7z.gvt1.com
+173.194.59.59	r5---sn-i3beln7z.gvt1.com
+173.194.59.60	r6---sn-i3beln7z.gvt1.com
+173.194.22.167	r1---sn-i3belnel.gvt1.com
+173.194.22.168	r2---sn-i3belnel.gvt1.com
+173.194.22.169	r3---sn-i3belnel.gvt1.com
+173.194.22.170	r4---sn-i3belnel.gvt1.com
+173.194.22.171	r5---sn-i3belnel.gvt1.com
+173.194.22.172	r6---sn-i3belnel.gvt1.com
+74.125.10.87	r1---sn-i3belnez.gvt1.com
+74.125.10.88	r2---sn-i3belnez.gvt1.com
+74.125.10.89	r3---sn-i3belnez.gvt1.com
+74.125.10.90	r4---sn-i3belnez.gvt1.com
+74.125.10.91	r5---sn-i3belnez.gvt1.com
+74.125.10.92	r6---sn-i3belnez.gvt1.com
+203.210.7.140	r1---sn-jna-i3bs.gvt1.com
+203.210.7.141	r2---sn-jna-i3bs.gvt1.com
+203.210.7.142	r3---sn-jna-i3bs.gvt1.com
+203.210.7.143	r4---sn-jna-i3bs.gvt1.com
+203.210.6.140	r1---sn-jna-i3b6.gvt1.com
+203.210.6.141	r2---sn-jna-i3b6.gvt1.com
+173.194.22.215	r1---sn-npoe7n76.gvt1.com
+173.194.22.216	r2---sn-npoe7n76.gvt1.com
+173.194.22.217	r3---sn-npoe7n76.gvt1.com
+173.194.22.218	r4---sn-npoe7n76.gvt1.com
+173.194.22.219	r5---sn-npoe7n76.gvt1.com
+173.194.22.220	r6---sn-npoe7n76.gvt1.com
+74.125.10.39	r1---sn-npoe7n7r.gvt1.com
+74.125.10.40	r2---sn-npoe7n7r.gvt1.com
+74.125.10.41	r3---sn-npoe7n7r.gvt1.com
+74.125.10.42	r4---sn-npoe7n7r.gvt1.com
+74.125.10.43	r5---sn-npoe7n7r.gvt1.com
+74.125.10.44	r6---sn-npoe7n7r.gvt1.com
+173.194.22.199	r1---sn-npoe7n7z.gvt1.com
+173.194.22.200	r2---sn-npoe7n7z.gvt1.com
+173.194.22.201	r3---sn-npoe7n7z.gvt1.com
+173.194.22.202	r4---sn-npoe7n7z.gvt1.com
+173.194.22.203	r5---sn-npoe7n7z.gvt1.com
+173.194.22.204	r6---sn-npoe7n7z.gvt1.com
+209.85.229.151	r1---sn-npoe7n7s.gvt1.com
+209.85.229.152	r2---sn-npoe7n7s.gvt1.com
+209.85.229.153	r3---sn-npoe7n7s.gvt1.com
+209.85.229.154	r4---sn-npoe7n7s.gvt1.com
+209.85.229.155	r5---sn-npoe7n7s.gvt1.com
+209.85.229.156	r6---sn-npoe7n7s.gvt1.com
+74.125.10.55	r1---sn-npoe7n7y.gvt1.com
+74.125.10.56	r2---sn-npoe7n7y.gvt1.com
+74.125.10.57	r3---sn-npoe7n7y.gvt1.com
+74.125.10.58	r4---sn-npoe7n7y.gvt1.com
+74.125.10.59	r5---sn-npoe7n7y.gvt1.com
+74.125.10.60	r6---sn-npoe7n7y.gvt1.com
+209.85.229.215	r1---sn-npoeen7d.gvt1.com
+209.85.229.216	r2---sn-npoeen7d.gvt1.com
+209.85.229.217	r3---sn-npoeen7d.gvt1.com
+209.85.229.218	r4---sn-npoeen7d.gvt1.com
+209.85.229.219	r5---sn-npoeen7d.gvt1.com
+209.85.229.220	r6---sn-npoeen7d.gvt1.com
+209.85.229.231	r1---sn-npoeen7k.gvt1.com
+209.85.229.232	r2---sn-npoeen7k.gvt1.com
+209.85.229.233	r3---sn-npoeen7k.gvt1.com
+209.85.229.234	r4---sn-npoeen7k.gvt1.com
+209.85.229.235	r5---sn-npoeen7k.gvt1.com
+209.85.229.236	r6---sn-npoeen7k.gvt1.com
+74.125.10.7	r1---sn-npoeen7y.gvt1.com
+74.125.10.8	r2---sn-npoeen7y.gvt1.com
+74.125.10.9	r3---sn-npoeen7y.gvt1.com
+74.125.10.10	r4---sn-npoeen7y.gvt1.com
+74.125.10.11	r5---sn-npoeen7y.gvt1.com
+74.125.10.12	r6---sn-npoeen7y.gvt1.com
+74.125.10.23	r1---sn-npoeene7.gvt1.com
+74.125.10.24	r2---sn-npoeene7.gvt1.com
+74.125.10.25	r3---sn-npoeene7.gvt1.com
+74.125.10.26	r4---sn-npoeene7.gvt1.com
+74.125.10.27	r5---sn-npoeene7.gvt1.com
+74.125.10.28	r6---sn-npoeene7.gvt1.com
+74.125.170.167	r1---sn-a5m7lnlz.gvt1.com
+74.125.170.168	r2---sn-a5m7lnlz.gvt1.com
+74.125.170.169	r3---sn-a5m7lnlz.gvt1.com
+74.125.170.170	r4---sn-a5m7lnlz.gvt1.com
+74.125.170.171	r5---sn-a5m7lnlz.gvt1.com
+74.125.170.172	r6---sn-a5m7lnlz.gvt1.com
+74.125.170.167	r1---sn-a5m7lnlz.gvt1.com
+74.125.170.168	r2---sn-a5m7lnlz.gvt1.com
+74.125.170.169	r3---sn-a5m7lnlz.gvt1.com
+74.125.170.170	r4---sn-a5m7lnlz.gvt1.com
+74.125.170.171	r5---sn-a5m7lnlz.gvt1.com
+74.125.170.172	r6---sn-a5m7lnlz.gvt1.com
+173.194.8.6	r1---sn-a5m7lnee.gvt1.com
+173.194.8.7	r2---sn-a5m7lnee.gvt1.com
+173.194.8.8	r3---sn-a5m7lnee.gvt1.com
+173.194.8.9	r4---sn-a5m7lnee.gvt1.com
+173.194.8.10	r5---sn-a5m7lnee.gvt1.com
+173.194.8.11	r6---sn-a5m7lnee.gvt1.com
+173.194.26.230	r1---sn-a5m7lne7.gvt1.com
+173.194.26.231	r2---sn-a5m7lne7.gvt1.com
+173.194.26.232	r3---sn-a5m7lne7.gvt1.com
+173.194.26.233	r4---sn-a5m7lne7.gvt1.com
+173.194.26.234	r5---sn-a5m7lne7.gvt1.com
+173.194.26.235	r6---sn-a5m7lne7.gvt1.com
+173.194.26.236	r7---sn-a5m7lne7.gvt1.com
+173.194.26.237	r8---sn-a5m7lne7.gvt1.com
+173.194.26.238	r9---sn-a5m7lne7.gvt1.com
+173.194.26.239	r10---sn-a5m7lne7.gvt1.com
+173.194.26.240	r11---sn-a5m7lne7.gvt1.com
+173.194.26.241	r12---sn-a5m7lne7.gvt1.com
+173.194.26.242	r13---sn-a5m7lne7.gvt1.com
+173.194.26.243	r14---sn-a5m7lne7.gvt1.com
+173.194.26.244	r15---sn-a5m7lne7.gvt1.com
+173.194.26.245	r16---sn-a5m7lne7.gvt1.com
+173.194.26.246	r17---sn-a5m7lne7.gvt1.com
+173.194.26.247	r18---sn-a5m7lne7.gvt1.com
+173.194.26.248	r19---sn-a5m7lne7.gvt1.com
+173.194.26.249	r20---sn-a5m7lne7.gvt1.com
+74.125.99.230	r1---sn-4g57knz7.gvt1.com
+74.125.99.231	r2---sn-4g57knz7.gvt1.com
+74.125.99.232	r3---sn-4g57knz7.gvt1.com
+74.125.99.233	r4---sn-4g57knz7.gvt1.com
+74.125.99.234	r5---sn-4g57knz7.gvt1.com
+74.125.99.235	r6---sn-4g57knz7.gvt1.com
+74.125.99.236	r7---sn-4g57knz7.gvt1.com
+74.125.99.237	r8---sn-4g57knz7.gvt1.com
+74.125.99.238	r9---sn-4g57knz7.gvt1.com
+74.125.99.239	r10---sn-4g57knz7.gvt1.com
+74.125.99.240	r11---sn-4g57knz7.gvt1.com
+74.125.99.241	r12---sn-4g57knz7.gvt1.com
+74.125.99.242	r13---sn-4g57knz7.gvt1.com
+74.125.99.243	r14---sn-4g57knz7.gvt1.com
+74.125.99.244	r15---sn-4g57knz7.gvt1.com
+74.125.99.245	r16---sn-4g57knz7.gvt1.com
+74.125.99.246	r17---sn-4g57knz7.gvt1.com
+74.125.99.247	r18---sn-4g57knz7.gvt1.com
+74.125.99.248	r19---sn-4g57knz7.gvt1.com
+74.125.99.249	r20---sn-4g57knz7.gvt1.com
+74.125.173.55	r1---sn-4g5ednll.gvt1.com
+74.125.173.56	r2---sn-4g5ednll.gvt1.com
+74.125.173.57	r3---sn-4g5ednll.gvt1.com
+74.125.173.58	r4---sn-4g5ednll.gvt1.com
+74.125.173.59	r5---sn-4g5ednll.gvt1.com
+74.125.173.60	r6---sn-4g5ednll.gvt1.com
+173.194.8.70	r1---sn-a5m7lnes.gvt1.com
+173.194.8.71	r2---sn-a5m7lnes.gvt1.com
+173.194.8.72	r3---sn-a5m7lnes.gvt1.com
+173.194.8.73	r4---sn-a5m7lnes.gvt1.com
+173.194.8.74	r5---sn-a5m7lnes.gvt1.com
+173.194.8.75	r6---sn-a5m7lnes.gvt1.com
+173.194.8.76	r7---sn-a5m7lnes.gvt1.com
+173.194.8.77	r8---sn-a5m7lnes.gvt1.com
+173.194.8.78	r9---sn-a5m7lnes.gvt1.com
+173.194.8.79	r10---sn-a5m7lnes.gvt1.com
+173.194.8.80	r11---sn-a5m7lnes.gvt1.com
+173.194.8.81	r12---sn-a5m7lnes.gvt1.com
+173.194.8.82	r13---sn-a5m7lnes.gvt1.com
+173.194.8.83	r14---sn-a5m7lnes.gvt1.com
+173.194.8.84	r15---sn-a5m7lnes.gvt1.com
+173.194.8.85	r16---sn-a5m7lnes.gvt1.com
+173.194.8.86	r17---sn-a5m7lnes.gvt1.com
+173.194.8.87	r18---sn-a5m7lnes.gvt1.com
+173.194.8.88	r19---sn-a5m7lnes.gvt1.com
+173.194.8.89	r20---sn-a5m7lnes.gvt1.com
+173.194.8.38	r1---sn-a5m7lnel.gvt1.com
+173.194.8.39	r2---sn-a5m7lnel.gvt1.com
+173.194.8.40	r3---sn-a5m7lnel.gvt1.com
+173.194.8.41	r4---sn-a5m7lnel.gvt1.com
+173.194.8.42	r5---sn-a5m7lnel.gvt1.com
+173.194.8.43	r6---sn-a5m7lnel.gvt1.com
+173.194.8.44	r7---sn-a5m7lnel.gvt1.com
+173.194.8.45	r8---sn-a5m7lnel.gvt1.com
+173.194.8.46	r9---sn-a5m7lnel.gvt1.com
+173.194.8.47	r10---sn-a5m7lnel.gvt1.com
+173.194.8.48	r11---sn-a5m7lnel.gvt1.com
+173.194.8.49	r12---sn-a5m7lnel.gvt1.com
+173.194.8.50	r13---sn-a5m7lnel.gvt1.com
+173.194.8.51	r14---sn-a5m7lnel.gvt1.com
+173.194.8.52	r15---sn-a5m7lnel.gvt1.com
+173.194.8.53	r16---sn-a5m7lnel.gvt1.com
+173.194.8.54	r17---sn-a5m7lnel.gvt1.com
+173.194.8.55	r18---sn-a5m7lnel.gvt1.com
+173.194.8.56	r19---sn-a5m7lnel.gvt1.com
+173.194.8.57	r20---sn-a5m7lnel.gvt1.com
+4.35.153.204	r1---sn-a8au-a5me.gvt1.com
+4.35.153.205	r2---sn-a8au-a5me.gvt1.com
+4.35.153.206	r3---sn-a8au-a5me.gvt1.com
+4.35.153.207	r4---sn-a8au-a5me.gvt1.com
+4.35.153.208	r5---sn-a8au-a5me.gvt1.com
+4.35.153.209	r6---sn-a8au-a5me.gvt1.com
+4.35.153.210	r7---sn-a8au-a5me.gvt1.com
+4.35.153.211	r8---sn-a8au-a5me.gvt1.com
 54.249.82.177	humble.pubnub.com
 104.20.35.236	humblebundle.com
 203.69.81.33	humblebundle-a.akamaihd.net
 52.36.140.12	pubnub.com
 216.58.200.243	www.humblebundle.com
-# HumbleBundle End
-
-# imgur Start
 151.101.100.193	imgur.com
 151.101.100.193	m.imgur.com
 151.101.100.193	api.imgur.com
@@ -3023,18 +3439,12 @@
 151.101.100.193	s.imgur.com
 151.101.100.193	p.imgur.com
 151.101.100.193	i.imgur.com
-# imgur End
-
-# Ingress Start
 54.241.32.8	appload.ingest.crittercism.com
 54.241.32.8	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.200	bootstrap.upsight-api.com
 169.44.145.200	single.upsight-api.com
 169.44.145.200	batch.upsight-api.com
-# Ingress End
-
-# Instagram Start
 157.240.7.52	instagram.com
 157.240.7.52	www.instagram.com
 157.240.7.52	i.instagram.com
@@ -3228,9 +3638,6 @@
 184.51.15.142	images.ak.instagram.com
 184.51.15.142	static.ak.instagram.com
 184.51.15.142	igcdn-photos-a-a.akamaihd.net
-# Instagram End
-
-# issuu Start
 52.72.26.162	issuu.com
 52.72.26.162	www.issuu.com
 52.72.26.162	blog.issuu.com
@@ -3245,9 +3652,6 @@
 52.72.26.162	static.issuu.com
 52.72.26.162	skin.issuu.com
 52.72.26.162	help.issuu.com
-# issuu End
-
-# Kobo Start
 128.127.159.1	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
 191.236.35.232	storedownloads.kobo.com
@@ -3316,9 +3720,6 @@
 88.221.15.50	ecimages.kobobooks.com
 88.221.15.50	ecmimages.kobobooks.com
 89.187.65.68	insiders.kobo.com
-# Kobo End
-
-# Line Start
 203.104.138.138	line.me
 125.209.210.239	lcp-checkout.line.me
 223.119.202.208	lan.line.me
@@ -3344,30 +3745,18 @@
 96.7.54.24	dl.profile.line.naver.jp
 96.7.54.17	dl.stickershop.line.naver.jp
 203.104.150.35	static.line.naver.jp
-# Line End
-
-# Logmein Start
 74.201.74.193	secure.logmein.com
-# Logmein End
-
-# Medium Start
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com
 104.16.120.145	cdn-static-1.medium.com
 104.16.120.145	cdn-images-1.medium.com
 103.245.222.101	cdn-images-2.medium.com
-# Medium End
-
-# MEGA Start
 31.216.147.135	eu.api.mega.co.nz
 154.53.224.130	eu.static.mega.co.nz
 117.18.237.188	g.cdn1.mega.co.nz
 154.53.224.150	mega.co.nz
 154.53.224.166	mega.nz
 31.216.147.130	w.api.mega.co.nz
-# MEGA End
-
-# nytimes for mobile Start
 52.203.102.52	messaging-sub.api.nytimes.com
 50.19.127.24	nytab.nytimes.com
 52.206.184.18	et.nytimes.com
@@ -3403,9 +3792,6 @@
 184.84.127.110	js.nyt.com
 184.84.127.110	css.nyt.com
 184.84.127.110	int.nyt.com
-# nytimes for mobile End
-
-# OneDrive Start
 204.79.197.213	api.onedrive.com
 2.17.58.51	api.onedrive.live.com
 204.79.197.217	onedrive.live.com
@@ -3413,9 +3799,6 @@
 204.79.197.217	webedgegeo.skyprod.akadns.net
 104.44.88.28	skyapi.onedrive.live.com
 13.107.42.11	outlook.live.com
-# OneDrive End
-
-# Opera mini Start
 107.167.115.253	mini5.opera-mini.net
 107.167.115.253	gameloft.com.minil.beta.opera-mini.net
 107.167.115.253	opx.opera.com.mini5-9.opera-mini.net
@@ -3477,9 +3860,6 @@
 111.11.6.120	global-turbo2.opera-mini.net
 82.145.210.168	z21-09.opera-mini.net
 82.145.211.1	z24-02.opera-mini.net
-# Opera mini End
-
-# pinterest Start
 151.101.64.84	pinterest.com
 151.101.64.84	www.pinterest.com
 151.101.64.84	www.pinterest.jp
@@ -3531,9 +3911,6 @@
 151.101.192.84	v.pinimg.com
 151.101.192.84	s-media-cache-ak0.pinimg.com
 52.203.245.216	developers.pinterest.com
-# pinterest End
-
-# Periscope Start
 52.193.42.51	pscp.tv
 52.193.42.51	www.pscp.tv
 52.11.126.129	channels.pscp.tv
@@ -3553,20 +3930,11 @@
 52.28.70.96	prod-chatman-ancillary-eu-central-1.pscp.tv
 52.5.25.47	prod-chatman-ancillary-us-east-1.pscp.tv
 52.26.41.23	prod-chatman-ancillary-us-west-2.pscp.tv
-# Periscope End
-
-# Psiphon Start
 54.239.168.4	psiphon3.com
 54.239.168.4	www.psiphon3.com
 104.20.39.14	psiphon.ca
 104.20.39.14	www.psiphon.ca
-# Psiphon End
-
-# RawGit Start
 198.232.125.81	cdn.rawgit.com
-# RawGit End
-
-# Resilio Sync Start
 13.32.231.218	getsync.com
 13.32.231.218	config.getsync.com
 13.32.231.218	download-cdn.getsync.com
@@ -3575,9 +3943,6 @@
 13.32.231.218	config.resilio.com
 13.32.231.218	www.resilio.com
 54.82.227.39	new-bench.resilio.com
-# Resilio Sync End
-
-# slideshare Start
 103.20.93.138	www.slideshare.net
 103.20.93.138	slideshare.net
 103.20.93.138	de.slideshare.net
@@ -3586,14 +3951,8 @@
 103.20.93.138	fr.slideshare.net
 103.20.93.138	pt.slideshare.net
 103.20.93.138	blog.slideshare.net
-# slideshare End
-
-# Smartdnsproxy Start
 103.28.248.96	www.smartdnsproxy.com
 184.72.50.35	support.smartdnsproxy.com
-# Smartdnsproxy End
-
-# SoundCloud Start
 72.21.91.127	soundcloud.com
 72.21.91.127	www.soundcloud.com
 72.21.91.127	m.soundcloud.com
@@ -3615,20 +3974,12 @@
 72.21.81.77	ec-media.sndcdn.com
 52.84.200.202	eventgateway.soundcloud.com
 52.84.200.202	telemetry.soundcloud.com
-# SoundCloud End
-
-# Startpage & Ixquick Start
 43.249.39.38	startpage.com
 43.249.39.38	www.startpage.com
 43.249.39.49	www.ixquick.com
 43.249.39.49	ixquick.com
 37.0.89.56	support.startpage.com
 37.0.89.57	support.ixquick.com
-# Startpage & Ixquick End
-
-# telegram Start
-# As an alternative, you can use:
-# https://telegram.ustclug.org
 149.154.167.99	telegram.org
 149.154.167.99	desktop.telegram.org
 149.154.167.99	core.telegram.org
@@ -3645,9 +3996,6 @@
 149.154.167.124	vesta-1.web.telegram.org
 149.154.171.22	flora.web.telegram.org
 149.154.171.22	flora-1.web.telegram.org
-# telegram End
-
-# thebodyshop Start
 52.48.212.136	thebodyshop.com
 52.76.11.9	www.thebodyshop.com.hk
 52.214.109.54	www.thebodyshop.com
@@ -3656,16 +4004,10 @@
 210.200.141.55	shop.thebodyshop.com.tw
 184.31.34.218	assets.thebodyshop.com
 151.101.0.230	apps.nexus.bazaarvoice.com
-# thebodyshop End
-
-# theinitium Start
 104.28.31.251	stigma.theinitium.com
 104.28.31.251	theinitium.com
 104.28.31.251	api.theinitium.com
 104.28.31.251	initiummall.com
-# theinitium End
-
-# Tor Start
 154.35.132.70	torproject.org
 154.35.132.70	www.torproject.org
 154.35.132.70	atlas.torproject.org
@@ -3706,13 +4048,6 @@
 78.47.38.231	storm.torproject.org
 138.201.14.206	svn.torproject.org
 138.201.212.227	trac.torproject.org
-# Tor End
-
-# Travis CI Start
-151.101.76.249	travis-ci-org.global.ssl.fastly.net
-# Travis CI End
-
-# Tumblr Start
 66.6.32.31	tumblr.com
 66.6.32.31	www.tumblr.com
 119.161.11.11	tumblr.co
@@ -3760,47 +4095,37 @@
 128.127.159.1	94.media.tumblr.com
 23.2.16.8	95.media.tumblr.com
 151.101.76.249	98.media.tumblr.com
-# Tumblr End
-
-# Twitter Start
-121.59.17.10	twitter.com
-121.59.17.10	www.twitter.com
-219.76.4.75	t.co
-121.59.17.10	api.twitter.com
-121.59.17.10	caps.twitter.com
-121.59.17.10	mobile.twitter.com
-121.59.17.10	support.twitter.com
-121.59.17.10	upload.twitter.com
-121.59.17.10	tweetdeck.twitter.com
-121.59.17.10	syndication.twitter.com
-121.59.17.10	platform.twitter.com
-121.59.17.10	about.twitter.com
-121.59.17.10	blog.twitter.com
-121.59.17.10	betastream.twitter.com
-121.59.17.10	dev.twitter.com
-121.59.17.10	pic.twitter.com
-121.59.17.10	search.twitter.com
-121.59.17.10	status.twitter.com
-121.59.17.10	assets0.twitter.com
-121.59.17.10	assets1.twitter.com
-121.59.17.10	assets2.twitter.com
-121.59.17.10	assets3.twitter.com
-121.59.17.10	assets4.twitter.com
-121.59.17.10	static.twitter.com
-121.59.17.10	help.twitter.com
-121.59.17.10	ton.twitter.com
-121.59.17.10	s.twitter.com
-121.59.17.10	analytics.twitter.com
-121.59.17.10	urls-real.api.twitter.com
-121.59.17.10	userstream.twitter.com
-121.59.17.10	sitestream.twitter.com
-121.59.17.10	stream.twitter.com
-121.59.17.10	tdweb.twitter.com
-121.59.17.10	cdn.syndication.twitter.com
-121.59.17.10	apps.twitter.com
-121.59.17.10	debates.twitter.com
-121.59.17.10	ads.twitter.com
-121.59.17.10	*twitter.com
+121.59.17.43	twitter.com
+121.59.17.43	www.twitter.com
+121.59.17.43	api.twitter.com
+121.59.17.43	caps.twitter.com
+121.59.17.43	mobile.twitter.com
+121.59.17.43	support.twitter.com
+121.59.17.43	upload.twitter.com
+121.59.17.43	tweetdeck.twitter.com
+121.59.17.43	syndication.twitter.com
+121.59.17.43	about.twitter.com
+121.59.17.43	blog.twitter.com
+121.59.17.43	betastream.twitter.com
+121.59.17.43	dev.twitter.com
+121.59.17.43	pic.twitter.com
+121.59.17.43	search.twitter.com
+121.59.17.43	status.twitter.com
+121.59.17.43	assets0.twitter.com
+121.59.17.43	assets1.twitter.com
+121.59.17.43	assets2.twitter.com
+121.59.17.43	assets3.twitter.com
+121.59.17.43	assets4.twitter.com
+121.59.17.43	static.twitter.com
+121.59.17.43	help.twitter.com
+121.59.17.43	ton.twitter.com
+121.59.17.43	s.twitter.com
+121.59.17.43	analytics.twitter.com
+121.59.17.43	urls-real.api.twitter.com
+121.59.17.43	userstream.twitter.com
+121.59.17.43	sitestream.twitter.com
+121.59.17.43	stream.twitter.com
+121.59.17.43	tdweb.twitter.com
 104.244.46.244	twitpic.com
 104.244.46.244	m1.twitpic.com
 104.244.46.244	web1.twitpic.com
@@ -3813,37 +4138,37 @@
 104.244.46.244	web7.twitpic.com
 104.244.46.244	web8.twitpic.com
 104.244.46.244	web9.twitpic.com
-104.244.46.244	*.twitpic.com
-104.244.46.71	a0.twimg.com
-104.244.46.71	a1.twimg.com
-104.244.46.71	a2.twimg.com
-104.244.46.71	a3.twimg.com
-104.244.46.71	a4.twimg.com
-104.244.46.71	a5.twimg.com
-104.244.46.71	video.twimg.com
-104.244.46.71	abs.twimg.com
-104.244.46.71	g.twimg.com
-104.244.46.71	hca.twimg.com
-104.244.46.71	o.twimg.com
-104.244.46.71	p.twimg.com
-104.244.46.71	r.twimg.com
-104.244.46.71	ma.twimg.com
-104.244.46.71	pbs.twimg.com
-104.244.46.71	pbs-h2.twimg.com
-104.244.46.71	ton.twimg.com
-104.244.46.71	syndication.twimg.com
-104.244.46.71	syndication-o.twimg.com
-104.244.46.71	image-proxy-origin.twimg.com
-104.244.46.71	cdn.syndication.twimg.com
-104.244.46.71	*.twimg.com
+117.18.237.70	a0.twimg.com
+117.18.237.70	a1.twimg.com
+117.18.237.70	a2.twimg.com
+117.18.237.70	a3.twimg.com
+117.18.237.70	a4.twimg.com
+117.18.237.70	a5.twimg.com
+117.18.237.70	abs.twimg.com
+117.18.237.70	g.twimg.com
+117.18.237.70	hca.twimg.com
+117.18.237.70	o.twimg.com
+117.18.237.70	p.twimg.com
+117.18.237.70	r.twimg.com
+117.18.237.70	ma.twimg.com
+117.18.237.70	pbs.twimg.com
+117.18.237.70	pbs-h2.twimg.com
+117.18.237.70	ton.twimg.com
+117.18.237.70	syndication.twimg.com
+117.18.237.70	syndication-o.twimg.com
+117.18.237.70	image-proxy-origin.twimg.com
 104.244.45.246	tweetdeck.com
 104.244.45.246	api.tweetdeck.com
 104.244.45.246	web.tweetdeck.com
 104.244.45.246	www.tweetdeck.com
 104.244.45.246	downloads.tweetdeck.com
-# Twitter End
-
-# Vimeo Start
+104.244.46.232	cdn.syndication.twitter.com
+104.244.46.232	apps.twitter.com
+104.244.46.232	debates.twitter.com
+185.45.5.47	t.co
+104.244.43.77	platform.twitter.com
+104.244.46.71	video.twimg.com
+104.244.46.17	cdn.syndication.twimg.com
 104.156.85.217	vimeo.com
 104.156.85.217	api.vimeo.com
 104.156.85.217	www.vimeo.com
@@ -3852,24 +4177,12 @@
 151.101.73.133	f.vimeocdn.com
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
-# Vimeo End
-
-# Voa Start
 23.42.169.61	www.voachinese.com
 23.42.169.61	gdb.voanews.com
 23.42.169.61	av.voanews.com
-# Voa End
-
-# W3schools Start
 192.229.173.207	w3schools.com
 192.229.173.207	www.w3schools.com
-# W3schools End
-
-# Wikinews Start
 198.35.26.96	zh.m.wikinews.org
-# Wikinews End
-
-# Wikipedia Start
 198.35.26.96	www.wikipedia.org
 198.35.26.96	login.wikimedia.org
 198.35.26.96	wuu.wikipedia.org
@@ -3877,13 +4190,7 @@
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
-# Wikipedia End
-
-# Xboxlive Start
 134.170.178.89	achievements.xboxlive.com
-# Xboxlive End
-
-# Yahoo Start
 202.43.194.205	c5.ah.yahoo.com
 202.43.194.205	edit.yahoo.com
 202.43.194.205	na.edit.yahoo.com
@@ -3912,7 +4219,7 @@
 119.161.14.17	up.flickr.com
 76.13.28.196	downloadr.flickr.com
 203.84.197.27	finance.yahoo.com
-203.84.197.27	hk.finance.yahoo.com0
+203.84.197.27	hk.finance.yahoo.com
 203.84.197.27	answers.yahoo.com
 203.84.197.27	hk.answers.yahoo.com
 203.84.197.27	tw.answers.yahoo.com
@@ -3934,43 +4241,38 @@
 27.123.200.67	search.yahoo.com
 27.123.200.67	hk.search.yahoo.com
 27.123.200.67	tw.search.yahoo.com
-# Yahoo End
-
-# Youtube Start
-172.217.26.46	youtube.com
-172.217.26.46	www.youtube.com
-172.217.26.46	ads.youtube.com
-172.217.26.46	au.youtube.com
-172.217.26.46	ca.youtube.com
-172.217.26.46	de.youtube.com
-172.217.26.46	jp.youtube.com
-172.217.26.46	ru.youtube.com
-172.217.26.46	tw.youtube.com
-172.217.26.46	uk.youtube.com
-172.217.26.46	accounts.youtube.com
-172.217.26.46	analytics.youtube.com
-172.217.26.46	apiblog.youtube.com
-172.217.26.46	creatoracademy.youtube.com
-172.217.26.46	m.youtube.com
-172.217.26.46	s.youtube.com
-172.217.26.46	gdata.youtube.com
-172.217.26.46	gaming.youtube.com
-172.217.26.46	help.youtube.com
-172.217.26.46	img.youtube.com
-172.217.26.46	insight.youtube.com
-172.217.26.46	upload.youtube.com
-172.217.26.46	redirector.c.youtube.com
-172.217.26.46	stage.gdata.youtube.com
-172.217.26.46	tv.youtube.com
-172.217.26.46	uploads.stage.gdata.youtube.com
-172.217.26.46	youtube.googleblog.com
-172.217.26.46	youtube.googleapis.com
-172.217.26.46	youtubei.googleapis.com
-172.217.26.46	youtube-ui.l.google.com
-172.217.26.46	www.youtube-nocookie.com
-# Youtube End
-
-# Google Video Start
+216.58.200.192	youtube.com
+216.58.200.192	www.youtube.com
+216.58.200.192	ads.youtube.com
+216.58.200.192	au.youtube.com
+216.58.200.192	ca.youtube.com
+216.58.200.192	de.youtube.com
+216.58.200.192	jp.youtube.com
+216.58.200.192	ru.youtube.com
+216.58.200.192	tw.youtube.com
+216.58.200.192	uk.youtube.com
+216.58.200.192	accounts.youtube.com
+216.58.200.192	analytics.youtube.com
+216.58.200.192	apiblog.youtube.com
+216.58.200.192	creatoracademy.youtube.com
+216.58.200.192	m.youtube.com
+216.58.200.192	s.youtube.com
+216.58.200.192	gdata.youtube.com
+216.58.200.192	gaming.youtube.com
+216.58.200.192	help.youtube.com
+216.58.200.192	img.youtube.com
+216.58.200.192	insight.youtube.com
+216.58.200.192	upload.youtube.com
+216.58.200.192	redirector.c.youtube.com
+216.58.200.192	stage.gdata.youtube.com
+216.58.200.192	tv.youtube.com
+216.58.200.192	uploads.stage.gdata.youtube.com
+216.58.200.192	youtube.googleblog.com
+216.58.200.192	youtube.googleapis.com
+216.58.200.192	youtubei.googleapis.com
+216.58.200.192	youtube-ui.l.google.com
+216.58.200.192	www.youtube-nocookie.com
+216.58.200.192	redirector.googlevideo.com
 194.9.24.76	r1---sn-5uh5o-f5f6.googlevideo.com
 194.9.24.77	r2---sn-5uh5o-f5f6.googlevideo.com
 194.9.24.78	r3---sn-5uh5o-f5f6.googlevideo.com
@@ -4394,3 +4696,97 @@
 173.194.8.9	r4---sn-a5m7lnee.googlevideo.com
 173.194.8.10	r5---sn-a5m7lnee.googlevideo.com
 173.194.8.11	r6---sn-a5m7lnee.googlevideo.com
+173.194.26.230	r1---sn-a5m7lne7.googlevideo.com
+173.194.26.231	r2---sn-a5m7lne7.googlevideo.com
+173.194.26.232	r3---sn-a5m7lne7.googlevideo.com
+173.194.26.233	r4---sn-a5m7lne7.googlevideo.com
+173.194.26.234	r5---sn-a5m7lne7.googlevideo.com
+173.194.26.235	r6---sn-a5m7lne7.googlevideo.com
+173.194.26.236	r7---sn-a5m7lne7.googlevideo.com
+173.194.26.237	r8---sn-a5m7lne7.googlevideo.com
+173.194.26.238	r9---sn-a5m7lne7.googlevideo.com
+173.194.26.239	r10---sn-a5m7lne7.googlevideo.com
+173.194.26.240	r11---sn-a5m7lne7.googlevideo.com
+173.194.26.241	r12---sn-a5m7lne7.googlevideo.com
+173.194.26.242	r13---sn-a5m7lne7.googlevideo.com
+173.194.26.243	r14---sn-a5m7lne7.googlevideo.com
+173.194.26.244	r15---sn-a5m7lne7.googlevideo.com
+173.194.26.245	r16---sn-a5m7lne7.googlevideo.com
+173.194.26.246	r17---sn-a5m7lne7.googlevideo.com
+173.194.26.247	r18---sn-a5m7lne7.googlevideo.com
+173.194.26.248	r19---sn-a5m7lne7.googlevideo.com
+173.194.26.249	r20---sn-a5m7lne7.googlevideo.com
+74.125.99.230	r1---sn-4g57knz7.googlevideo.com
+74.125.99.231	r2---sn-4g57knz7.googlevideo.com
+74.125.99.232	r3---sn-4g57knz7.googlevideo.com
+74.125.99.233	r4---sn-4g57knz7.googlevideo.com
+74.125.99.234	r5---sn-4g57knz7.googlevideo.com
+74.125.99.235	r6---sn-4g57knz7.googlevideo.com
+74.125.99.236	r7---sn-4g57knz7.googlevideo.com
+74.125.99.237	r8---sn-4g57knz7.googlevideo.com
+74.125.99.238	r9---sn-4g57knz7.googlevideo.com
+74.125.99.239	r10---sn-4g57knz7.googlevideo.com
+74.125.99.240	r11---sn-4g57knz7.googlevideo.com
+74.125.99.241	r12---sn-4g57knz7.googlevideo.com
+74.125.99.242	r13---sn-4g57knz7.googlevideo.com
+74.125.99.243	r14---sn-4g57knz7.googlevideo.com
+74.125.99.244	r15---sn-4g57knz7.googlevideo.com
+74.125.99.245	r16---sn-4g57knz7.googlevideo.com
+74.125.99.246	r17---sn-4g57knz7.googlevideo.com
+74.125.99.247	r18---sn-4g57knz7.googlevideo.com
+74.125.99.248	r19---sn-4g57knz7.googlevideo.com
+74.125.99.249	r20---sn-4g57knz7.googlevideo.com
+74.125.173.55	r1---sn-4g5ednll.googlevideo.com
+74.125.173.56	r2---sn-4g5ednll.googlevideo.com
+74.125.173.57	r3---sn-4g5ednll.googlevideo.com
+74.125.173.58	r4---sn-4g5ednll.googlevideo.com
+74.125.173.59	r5---sn-4g5ednll.googlevideo.com
+74.125.173.60	r6---sn-4g5ednll.googlevideo.com
+173.194.8.70	r1---sn-a5m7lnes.googlevideo.com
+173.194.8.71	r2---sn-a5m7lnes.googlevideo.com
+173.194.8.72	r3---sn-a5m7lnes.googlevideo.com
+173.194.8.73	r4---sn-a5m7lnes.googlevideo.com
+173.194.8.74	r5---sn-a5m7lnes.googlevideo.com
+173.194.8.75	r6---sn-a5m7lnes.googlevideo.com
+173.194.8.76	r7---sn-a5m7lnes.googlevideo.com
+173.194.8.77	r8---sn-a5m7lnes.googlevideo.com
+173.194.8.78	r9---sn-a5m7lnes.googlevideo.com
+173.194.8.79	r10---sn-a5m7lnes.googlevideo.com
+173.194.8.80	r11---sn-a5m7lnes.googlevideo.com
+173.194.8.81	r12---sn-a5m7lnes.googlevideo.com
+173.194.8.82	r13---sn-a5m7lnes.googlevideo.com
+173.194.8.83	r14---sn-a5m7lnes.googlevideo.com
+173.194.8.84	r15---sn-a5m7lnes.googlevideo.com
+173.194.8.85	r16---sn-a5m7lnes.googlevideo.com
+173.194.8.86	r17---sn-a5m7lnes.googlevideo.com
+173.194.8.87	r18---sn-a5m7lnes.googlevideo.com
+173.194.8.88	r19---sn-a5m7lnes.googlevideo.com
+173.194.8.89	r20---sn-a5m7lnes.googlevideo.com
+173.194.8.38	r1---sn-a5m7lnel.googlevideo.com
+173.194.8.39	r2---sn-a5m7lnel.googlevideo.com
+173.194.8.40	r3---sn-a5m7lnel.googlevideo.com
+173.194.8.41	r4---sn-a5m7lnel.googlevideo.com
+173.194.8.42	r5---sn-a5m7lnel.googlevideo.com
+173.194.8.43	r6---sn-a5m7lnel.googlevideo.com
+173.194.8.44	r7---sn-a5m7lnel.googlevideo.com
+173.194.8.45	r8---sn-a5m7lnel.googlevideo.com
+173.194.8.46	r9---sn-a5m7lnel.googlevideo.com
+173.194.8.47	r10---sn-a5m7lnel.googlevideo.com
+173.194.8.48	r11---sn-a5m7lnel.googlevideo.com
+173.194.8.49	r12---sn-a5m7lnel.googlevideo.com
+173.194.8.50	r13---sn-a5m7lnel.googlevideo.com
+173.194.8.51	r14---sn-a5m7lnel.googlevideo.com
+173.194.8.52	r15---sn-a5m7lnel.googlevideo.com
+173.194.8.53	r16---sn-a5m7lnel.googlevideo.com
+173.194.8.54	r17---sn-a5m7lnel.googlevideo.com
+173.194.8.55	r18---sn-a5m7lnel.googlevideo.com
+173.194.8.56	r19---sn-a5m7lnel.googlevideo.com
+173.194.8.57	r20---sn-a5m7lnel.googlevideo.com
+4.35.153.204	r1---sn-a8au-a5me.googlevideo.com
+4.35.153.205	r2---sn-a8au-a5me.googlevideo.com
+4.35.153.206	r3---sn-a8au-a5me.googlevideo.com
+4.35.153.207	r4---sn-a8au-a5me.googlevideo.com
+4.35.153.208	r5---sn-a8au-a5me.googlevideo.com
+4.35.153.209	r6---sn-a8au-a5me.googlevideo.com
+4.35.153.210	r7---sn-a8au-a5me.googlevideo.com
+4.35.153.211	r8---sn-a8au-a5me.googlevideo.com
